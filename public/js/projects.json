@@ -1,117 +1,91 @@
 {
   "projects": [
     {
-      "title": "Amazing Project",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "title": "Engineer development platform",
+      "description": "A web application as a platform to develop and raise the level of the engineer by providing professional educational paths and training in various disciplines",
       "teams": {
         "frontend": [
           {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
-          },
-          {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
-          },
-          {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
+            "name": "Mohammad Alghareeb",
+            "linkedin": "https://www.linkedin.com/in/mohammad-al-ghareeb-3b5351232",
+            "facebook": "https://www.facebook.com/mhmdaghryba"
           }
         ],
         "backend": [
           {
-            "name": "karam mustafa",
+            "name": "Abdul-Rahman Shayah",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
-          },
-          {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
+            "facebook": "https://www.facebook.com/test"
           }
         ],
         "mobile": [
           {
-            "name": "karam mustafa",
+            "name": "Ahmad Albetar",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
-          },{
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
+            "facebook": "https://www.facebook.com/"
+          },
+          {
+            "name": "Yaman",
+            "linkedin": "https://www.linkedin.com/in/yaman-adna-405292220/",
+            "facebook": "https://www.facebook.com/يمان أدنا"
           }
         ],
         "devops": [
           {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
-          },{
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
+            "name": "Ali Alhussein",
+            "linkedin": "https://www.linkedin.com/in/ali-alhussein",
+            "facebook": "https://www.facebook.com/ali.alhussein.333"
           }
         ],
         "designers": [
           {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
-          },{
-            "name": "karam mustafa",
+            "name": "Sedrah",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
             "facebook": "https://www.facebook.com/karam2mustafa"
           }
         ],
         "testers": [
           {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
-          },{
-            "name": "karam mustafa",
+            "name": "Dala'a",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
             "facebook": "https://www.facebook.com/karam2mustafa"
           }
         ],
         "product_owner": {
-          "name": "karam mustafa",
+          "name": "Naser Dakhel",
           "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
           "facebook": "https://www.facebook.com/karam2mustafa"
         },
         "scrum_master": {
-          "name": "karam mustafa",
-          "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-          "facebook": "https://www.facebook.com/karam2mustafa"
+          "name": "Ali Alhussein",
+          "linkedin": "https://www.linkedin.com/in/ali-alhussein",
+          "facebook": "https://www.facebook.com/ali.alhussein.333"
         }
       },
       "sprints": [
-       [
-         {
-           "title": "As a customer I want to be able to register new account",
-           "acceptance_criteria": {
-             "what": "What is the requirement",
-             "why": "Why you want to develop this feature",
-             "when": "When you want to develop this feature"
-           },
-           "estimation": "5"
-         },
-         {
-           "title": "As a customer I want to be able to register new account",
-           "acceptance_criteria": {
-             "what": "What is the requirement",
-             "why": "Why you want to develop this feature",
-             "when": "When you want to develop this feature"
-           },
-           "estimation": "3"
-         }
-       ],
         [
           {
-            "title": "As a customer I want to be able to register new account",
+            "title": "As a user I want to be able to register new account",
+            "acceptance_criteria": {
+              "what": "A login page",
+              "why": "Why you want to develop this feature",
+              "when": "When you want to develop this feature"
+            },
+            "estimation": "5"
+          },
+          {
+            "title": "As a user I want to be able to choose a specialization",
+            "acceptance_criteria": {
+              "what": "What is the requirement",
+              "why": "Why you want to develop this feature",
+              "when": "When you want to develop this feature"
+            },
+            "estimation": "3"
+          }
+        ],
+        [
+          {
+            "title": "As a user I want to be able to choose a path",
             "acceptance_criteria": {
               "what": "What is the requirement",
               "why": "Why you want to develop this feature",
@@ -120,7 +94,27 @@
             "estimation": "5"
           },
           {
-            "title": "As a customer I want to be able to register new account",
+            "title": "As a user I want to be able to enrol a cource",
+            "acceptance_criteria": {
+              "what": "What is the requirement",
+              "why": "Why you want to develop this feature",
+              "when": "When you want to develop this feature"
+            },
+            "estimation": "5"
+          }
+        ],
+        [
+          {
+            "title": "As a suer I want to be able to attende a course",
+            "acceptance_criteria": {
+              "what": "What is the requirement",
+              "why": "Why you want to develop this feature",
+              "when": "When you want to develop this feature"
+            },
+            "estimation": "3"
+          },
+          {
+            "title": "As a suer I want to be able to issue a certficate",
             "acceptance_criteria": {
               "what": "What is the requirement",
               "why": "Why you want to develop this feature",
